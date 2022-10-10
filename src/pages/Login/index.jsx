@@ -3,7 +3,7 @@ import { useForm } from "react-hook-form";
 import { yupResolver } from '@hookform/resolvers/yup';
 import { Link } from "react-router-dom";
 import { DivLogin, LoginSection } from "./styles";
-import { FaEye, FaEyeSlash } from "react-icons/Fa";
+import { FaEye, FaEyeSlash } from "react-icons/fa";
 import { useState } from "react";
 import { DivInputPassaword } from "./passwordImput/styles";
 import useNavegation from "../../hooks/useResquest";
